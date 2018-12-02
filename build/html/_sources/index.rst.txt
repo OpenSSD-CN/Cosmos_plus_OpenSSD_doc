@@ -7,7 +7,7 @@ Welcome to Cosmos_plus_OpenSSD's documentation!
 ===============================================
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 1
    :caption: Contents:
    :numbered:
 
