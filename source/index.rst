@@ -7,14 +7,10 @@ Welcome to Cosmos_plus_OpenSSD's documentation!
 ===============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 6
    :caption: Contents:
+   :numbered:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   ./Host/host
+   ./OpenSSD/OpenSSD
+   ./OpenChannelSSD/OpenChannelSSD
